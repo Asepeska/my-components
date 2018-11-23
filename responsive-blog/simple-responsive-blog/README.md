@@ -1,0 +1,1 @@
+contoh blog responsif sederhana
